@@ -1,4 +1,5 @@
 import random
+
 lower = "abcdefghijklmnopqrstuvwxyz"
 upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 number = "0123456789"
